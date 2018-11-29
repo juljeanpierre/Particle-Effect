@@ -1,6 +1,11 @@
 #particles-js{
-  background:#008B8B;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background:no-repeat center center fixed #008B8B;
 
+}
+
+body{
+  background: no-repeat center center fixed #000;
+  text-align: center;
+  color: white;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
