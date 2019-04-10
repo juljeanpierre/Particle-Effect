@@ -4,7 +4,7 @@
       "value":450
     },
     "color":{
-      "value":"#7FFF00"
+      "value":"#ffffff"
     },
     "shape":{
       "type":"circle"
@@ -14,7 +14,7 @@
       "random":true,
       "anim":{
         "enable":true,
-        "speed":3
+        "speed":5
       }
     },
     "size":{
@@ -22,7 +22,8 @@
       "random":false
     },
     "line_linked":{
-      "enable": true
+      "enable": true,
+      "color":"#00FFFF"
     }
   }
 }

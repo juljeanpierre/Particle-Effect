@@ -1,11 +1,11 @@
 #particles-js{
-  background:no-repeat center center fixed #008B8B;
+  background:no-repeat center center fixed #000000;
 
 }
 
 body{
   background: no-repeat center center fixed #000;
   text-align: center;
-  color: white;
+  color: #white;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
