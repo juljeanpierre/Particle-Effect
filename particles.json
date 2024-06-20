@@ -1,7 +1,7 @@
 {
   "particles":{
     "number":{
-      "value":250
+      "value":150
     },
     "color":{
       "value":"#ffffff"
@@ -14,7 +14,7 @@
       "random":true,
       "anim":{
         "enable":true,
-        "speed":50
+        "speed":30
       }
     },
     "size":{
